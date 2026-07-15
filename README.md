@@ -4,6 +4,44 @@
 A real-world case study documenting how I led the product definition, AI-assisted delivery, quality assurance, deployment, and public launch of the Active Impact Club website.
 
 > **Portfolio note:** This repository documents my product leadership and contributions to the project. The official production source code is maintained separately by the Active Impact Club organization.
+---
+
+## Product Walkthrough
+
+### Public Website Experience
+
+The launched website provides a clear public entry point to AIC’s mission, programs, projects, guiding principles, and participation opportunities.
+
+<p align="center">
+  <img src="images/homepage.png" alt="Active Impact Club website homepage" width="100%">
+</p>
+
+### Projects and Participation Journey
+
+The Projects experience presents current initiatives and completed community activities, while the Participation Form provides a structured, project-connected workflow for contributors and participants.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="images/projects-and-activities.png" alt="Active Impact Club projects and activities page" width="100%">
+    </td>
+    <td width="50%" valign="top">
+      <img src="images/participation-form.png" alt="Active Impact Club participation form" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Projects and Activities</strong></td>
+    <td align="center"><strong>Participation Form</strong></td>
+  </tr>
+</table>
+
+### Responsive Mobile Experience
+
+The website was reviewed and refined for mobile navigation, readable forms, responsive layouts, accessibility, and touch-friendly interactions.
+
+<p align="center">
+  <img src="images/mobile-experience.png" alt="Active Impact Club mobile contact experience" width="320">
+</p>
 
 ---
 
