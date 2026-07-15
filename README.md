@@ -204,6 +204,7 @@ Continued work includes content expansion, operational automation, enhanced repo
 - **Official organization:** [Active Impact Club on GitHub](https://github.com/Active-Impact-Club)
 - **Product lead:** [Khaled Ahmed](https://github.com/khaledahmed-Tech)
 - **Product architecture:** [View the architecture and delivery model](docs/ARCHITECTURE.md)
+- **Product decisions:** [Review the key product decisions and trade-offs](docs/PRODUCT_DECISIONS.md)
 
 ---
 
