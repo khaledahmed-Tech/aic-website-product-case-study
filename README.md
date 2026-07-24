@@ -57,19 +57,16 @@ I led the initiative from evolving organizational requirements and early concept
 
 ## My Role
 
-I served as the end-to-end product leader and performed responsibilities across several functions:
+**Role: Product Lead**
 
-- AI Product Manager
-- Product Manager and Product Owner
-- Technical Product Manager
-- Business Analyst
-- UX and Service Design Lead
-- Content Strategist
-- AI-Assisted Delivery Lead
-- Quality Assurance and Release Lead
-- Governance, Privacy, and Risk Lead
+Owned product strategy, information architecture, user workflows, AI-assisted delivery, quality assurance, release decisions, and governance for the public launch.
 
-This required coordinating work that would traditionally involve product, design, content, engineering, QA, operations, and release-management contributors.
+My scope included:
+
+- **Product definition and prioritization** — clarified audiences, product goals, launch scope, requirements, and delivery sequencing.
+- **UX, content, and workflow design** — shaped information architecture, responsive journeys, participation workflows, content structure, and calls to action.
+- **AI-assisted delivery and review** — translated product requirements into focused implementation tasks, reviewed generated work, and refined outputs against business, usability, and technical expectations.
+- **Launch governance, quality, and release readiness** — validated functionality, accessibility, privacy, security, content accuracy, deployment readiness, and post-launch improvements.
 
 ---
 
